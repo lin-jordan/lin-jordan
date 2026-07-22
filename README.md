@@ -15,7 +15,7 @@ I'm Jordan, ex-engineer, founder, and consultant turned operator. I can't stop c
 
 - 🎓 Selected out of 4000+ applicants for the 2025-2026 [Schwarzman Scholars](https://www.schwarzmanscholars.org/) one-year fully-funded master's program in Beijing at Tsinghua University (Asia's no.1)
 - 🇨🇦 Top 30 Under 30 Sustainability Leader in Canada (2023), [Corporate Knights](https://corporateknights.com/issues/2023-11-education-and-youth-issue/youth-leaders-climate-action/)
-- 🌍 Summer stint in Tanzania building solar projects with the [Access to Energy Institute] (https://a2ei.org/)
+- 🌍 Built solar projects in Tanzania for a summer [Access to Energy Institute](https://a2ei.org/)
 
 ---
 
@@ -25,8 +25,8 @@ I'm Jordan, ex-engineer, founder, and consultant turned operator. I can't stop c
 - 📈 **Experience:** Completed six full-time internships during my undergraduate spanning manufacturing, automotive, healthcare, clean energy, and education. 
 - 🔨 **Founder Experience:** [Impact Alliance](https://www.instagram.com/sdgimpactalliance/), [ReImagine17](https://www.instagram.com/reimagine17/)
 - 📚 **Interested in:** AI training, physical AI, clean energy, urban planning, history, geoeconomics
+- 📸 **Hobbies/Interests:** Photograhy, dance, guitar, rock climbing, swim, travel, cooking
 - 💬 **Languages:** English, Mandarin, French
-- 📸 **Hobbies/Interests:** Photograhy, travel, rock climbing, 
 - 🤝 **Open to:** knowledge exchange, project collabs combining tech + sustainability, mentorship (mentee or mentor)
 
 ---
