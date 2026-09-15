@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Jordan
 
-I'm Jordan, a former engineer, founder, and consultant pivoting to operator roles at early-stage startups. I'm a mission-driven and user-obsessed systems thinker who chases growth and new life experiences. I strive to make a scaled impact in our world by driving innovation in tech.
+I'm currently based in San Francisco as a Chief of Staff @ [Substrate](https://www.joinsubstrate.com/), where we use AI to develop financial infrastructure that captures the $1.3T equipment finance industry. I'm a former engineer, founder, and consultant who's a mission-driven and user-obsessed systems thinker that chases growth and new life experiences.
 
 ---
 
 ## 🚀 What I’m Building Now
-
+- **[Substrate](https://www.joinsubstrate.com/)**: our team comes from SpaceX, Anthropic, Ritchie Bros, Ramp, and other leaders. We raised a $7M seed  co-led by Floodgate and the CEO of Holt, with investment from Neo and Steel Atlas.
 - **[Referral Code Marketplace (WIP)](https://github.com/lin-jordan/schwarzman-referral-marketplace)** — A web app for alumni in my master's program to upload, claim, and track referral code promotions with each other. 
 - **[AI Training Atlas](https://ai-training-industry-research.vercel.app/)** — A webpage summarizing my research learning about the AI training industry, the companies involved, and important concepts.
 
